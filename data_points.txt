@@ -1,3 +1,4 @@
+LotArea
 OverallQual
 Overall Cond
 YearBuilt
