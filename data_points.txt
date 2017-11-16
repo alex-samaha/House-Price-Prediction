@@ -1,0 +1,9 @@
+OverallQual
+Overall Cond
+YearBuilt
+YearRemodAdd
+1stFlrSF
+2ndFlrSF
+FullBath
+HalfBath
+BedroomAbvGr
