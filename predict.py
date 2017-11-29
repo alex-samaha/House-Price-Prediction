@@ -33,7 +33,7 @@ x_train, x_test, y_train, y_test = train_test_split(df, df_prices, random_state=
 reg.fit(x_train, y_train)
 
 # shows the optimal weights for each coefficient
-reg.coef_
+print(reg.coef_)
 
 # predict the prices of each house
 predicted_prices = reg.predict(x_test)
